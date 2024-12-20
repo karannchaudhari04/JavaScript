@@ -1,7 +1,7 @@
 console.log("Karan")
 const accID = 101;
 let accMail = "abc@gmail.com"
-var accPass = "123456789"
+var accPass = "123456789" //Try to not use
 accCity = "Pune"
 let accState;
 
